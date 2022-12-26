@@ -1,6 +1,6 @@
 - 👋 Hi, I’m William Sgobi! =)
 - 👀 I’m interested in improve my developer skills and share my knowledges.
-- 🌱 I’m currently learning C# (ASP.NET Core MVC and API), React JS and improving my code in Flutter.
+- 🌱 I’m currently learning NodeJS and improving my code in Flutter, C# (ASP.NET Core MVC and API) and ReactJS.
 - 📫 How to reach me: william_sgobi@hotmail.com
 
 <!---
