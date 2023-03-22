@@ -36,7 +36,8 @@
 <img src="https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
 
 
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /> GitHub Stats:
+:octocat: GitHub Stats:
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willsgobi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willsgobi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
