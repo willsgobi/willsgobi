@@ -1,4 +1,4 @@
-- ### :wave: Hi, I’m William Sgobi! =)
+### :wave: Hi, I’m William Sgobi! =)
 - :eyes: I’m interested in help others using my developer skills and share my knowledges.
 - :nerd_face: I’m currently improving my code in Flutter, C# (ASP.NET Core MVC and API), ReactJS, and NodeJS.
 - :email: How to reach me: william_sgobi@hotmail.com
@@ -38,7 +38,9 @@
 
 :octocat: GitHub Stats:
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willsgobi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=willsgobi&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willsgobi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=willsgobi&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willsgobi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
