@@ -3,9 +3,11 @@
 - 🌱 I’m currently improving my code in Flutter, C# (ASP.NET Core MVC and API), ReactJS, and NodeJS.
 - 📫 How to reach me: william_sgobi@hotmail.com
 
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willsgobi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 📱 Mobile Frameworks
 :-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> [![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=willsgobi&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
 👩‍💻 Languages:
 :-
