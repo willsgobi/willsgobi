@@ -3,19 +3,14 @@
 - 🌱 I’m currently improving my code in Flutter, C# (ASP.NET Core MVC and API), ReactJS, and NodeJS.
 - 📫 How to reach me: william_sgobi@hotmail.com
 
-[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willsgobi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willsgobi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=willsgobi&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
-
 📱 Mobile Frameworks
 :-
-<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willsgobi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+<img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /> [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willsgobi&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
 👩‍💻 Languages:
 :-
-<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" /> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /> <img src="https://img.shields.io/badge/json-5E5C5C?style=for-the-badge&logo=json&logoColor=white" /> [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=willsgobi&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 🚀 Frameworks & Library:
 :-
