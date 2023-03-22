@@ -4,7 +4,7 @@
 - 📫 How to reach me: william_sgobi@hotmail.com
 
 [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willsgobi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willsgobi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
-
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=willsgobi&theme=blue-green)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
 📱 Mobile Frameworks
 :-
