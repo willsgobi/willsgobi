@@ -3,7 +3,8 @@
 - 🌱 I’m currently improving my code in Flutter, C# (ASP.NET Core MVC and API), ReactJS, and NodeJS.
 - 📫 How to reach me: william_sgobi@hotmail.com
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willsgobi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=willsgobi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats) [![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=willsgobi&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+
 
 📱 Mobile Frameworks
 :-
