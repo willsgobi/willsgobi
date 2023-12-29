@@ -1,6 +1,6 @@
 ### :wave: Oi, eu sou o William Sgobi! =)
 - :eyes: Estou interessado em ajudar outras pessoas utilizando minhas habilidades de desenvolvedor e compartilhar meus conhecimentos.
-- :nerd_face: Atualmente, estou aprimorando meu código em Flutter, C# (ASP.NET Core MVC e API), ReactJS e NodeJS.
+- :nerd_face: Atualmente, estou aprimorando meu código em Flutter, NextJS e NodeJS.
 - :email: Contatar-me: william_sgobi@hotmail.com
 
 ## Meus projetos
