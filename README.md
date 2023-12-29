@@ -1,7 +1,33 @@
-### :wave: Hi, I’m William Sgobi! =)
-- :eyes: I’m interested in help others using my developer skills and share my knowledges.
-- :nerd_face: I’m currently improving my code in Flutter, C# (ASP.NET Core MVC and API), ReactJS, and NodeJS.
-- :email: How to reach me: william_sgobi@hotmail.com
+### :wave: Oi, eu sou o William Sgobi! =)
+- :eyes: Estou interessado em ajudar outras pessoas utilizando minhas habilidades de desenvolvedor e compartilhar meus conhecimentos.
+- :nerd_face: Atualmente, estou aprimorando meu código em Flutter, C# (ASP.NET Core MVC e API), ReactJS e NodeJS.
+- :email: Contatar-me: william_sgobi@hotmail.com
+
+## Meus projetos
+
+### Invest Alerts Tracker
+Este projeto foi desenvolvido em duas partes. A primeira parte consiste na criação da API, o core do projeto, construída em NodeJS com TypeScript e hospedada no Cyclic. 
+
+Na segunda parte, desenvolvi um aplicativo em Flutter, no qual utilizei o Bloc para gerenciamento de estado, o Provider para injeção de dependência, o l10n para internacionalização e o Firebase Cloud Messaging para notificações push. O objetivo principal deste projeto é notificar o usuário quando o preço de um ativo, previamente cadastrado por ele no aplicativo, atinge o seu valor-alvo. 
+
+Para isso, implementei um sistema de notificações push na API para assegurar que o usuário seja informado de maneira eficaz.
+
+Link do site de amostra do app: https://invest-alerts-tracker-web.vercel.app/
+
+Link de download do app: https://play.google.com/store/apps/details?id=com.sgobi.investalertstracker
+
+### Telegram Logger Monitoring
+
+Este projeto é um pacote desenvolvido com Typescript com o objetivo principal de facilitar o desenvolvedor a receber alertas de quaisquer tipo, tais como erros na aplicação, informações, warnings entre outros.
+
+Está publicado no npm e qualquer um pode utilizar!
+
+[Visualizar package no NPM](https://www.npmjs.com/package/telegram-logger-monitoring)
+
+### Calculo entre Latitudes e Longitudes
+Este pacote desenvolvido em Dart e tem como objetivo calcular de uma forma mais precisa possível a distancia real entre dois pontos Latitude e Longitude em metros, milhas e milhas náuticas.
+
+[Visualizar package Pub Dev](https://pub.dev/packages/calc_lat_long)
 
 :iphone: Mobile Frameworks
 :-
